@@ -1,3 +1,5 @@
+// ssr method
+
 // import Image from "next/image";
 
 // export default async function MovieDetail({ params }) {
